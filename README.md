@@ -4,13 +4,13 @@
 
 Project Euler is a series of fun and challenging computer programming problems that require the use a combination of math & logic to solve. Think of them as interesting coding puzzles that will exercise your brain and coding muscles at the same time. 
 
-With some basic knowledge of Ruby, you already know enough programming to express solutions to these test-driven labs. You may need to brush up on some of the mathematical concepts as you progress—Google is your friend!
+With some basic knowledge of Ruby, you should already know enough programming to express solutions to these test-driven labs. There may be cases where you need to look up new techniques, brush up on mathematical concepts or look up an algorithm for help. Google is your friend!
 
 From the [website](link:"https://projecteuler.net/): "Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."
 
 ## Project Euler on Learn
 
-We have started moving some Project Euler challenges over to Learn so that Learners around the world can upgrade their Ruby skills, have some fun and Learn together. We also think solving these challenges in a test-driven way on Learn, and having your your solution automatically pushed to GitHub, is a great way to share your progress with the world. 
+We have started moving some Project Euler challenges over to Learn so that Learners around the world can upgrade their Ruby skills, have some fun and Learn together. We also think solving these challenges in a test-driven way on Learn, and having your solution automatically pushed to GitHub, is a great way to track your progress and share it with the world. You can of course also ask questions of the Learn community to get help when your stuck. 
 
 We hope to port more and more Project Euler labs over to Learn over time.
 
