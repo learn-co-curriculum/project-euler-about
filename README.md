@@ -16,7 +16,7 @@ We hope to port more Project Euler labs over to Learn over time.
 
 ## Who is behind Project Euler?
 
-Project Euler was started by Colin Hughes in October 2001 on mathschallenge.net. It was later moved to its own domain, https://projecteuler.net/ where hundreds of problems are now hosted. 
+Project Euler was started by Colin Hughes in October 2001 on mathschallenge.net. It was later moved to its own domain, [https://projecteuler.net/](link:https://projecteuler.net/) where hundreds of problems are now hosted. 
 
 ## Hints for solving these problems
 
