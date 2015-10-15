@@ -2,7 +2,7 @@
 
 ## What is Project Euler?
 
-Project Euler is a series of fun and challenging computer programming problems that require the use a combination of math & logic to solve. Think of them as interesting coding puzzles that will exercise your brain and coding muscles at the same time. 
+Project Euler is a series of fun and challenging computer programming problems that require the use of a combination of math & logic to solve. Think of them as interesting coding puzzles that will exercise your brain and coding muscles at the same time. 
 
 With some basic knowledge of Ruby, you should already know enough programming to express solutions to these test-driven labs. There may be cases where you need to look up new techniques, brush up on mathematical concepts or look up an algorithm for help. Google is your friend!
 
