@@ -10,9 +10,9 @@ From the [website](link:"https://projecteuler.net/): "Project Euler exists to en
 
 ## Project Euler on Learn
 
-We have started moving some Project Euler challenges over to Learn so that Learners around the world can upgrade their Ruby skills, have some fun and Learn together. We also think solving these challenges in a test-driven way on Learn, and having your solution automatically pushed to GitHub, is a great way to track your progress and share it with the world. You can of course also ask questions of the Learn community to get help when your stuck. 
+We have started moving some Project Euler challenges over to Learn so that Learners around the world can upgrade their Ruby skills, have some fun and Learn together. We also think solving these challenges in a test-driven way on Learn, and having your solution automatically pushed to GitHub, is a great way to track your progress and share it with the world. You can of course also ask questions of the Learn community to get help when you're stuck. 
 
-We hope to port more and more Project Euler labs over to Learn over time.
+We hope to port more Project Euler labs over to Learn over time.
 
 ## Who is behind Project Euler?
 
