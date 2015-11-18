@@ -6,7 +6,7 @@ Project Euler is a series of fun and challenging computer programming problems t
 
 With some basic knowledge of Ruby, you should already know enough programming to express solutions to these test-driven labs. There may be cases where you need to look up new techniques, brush up on mathematical concepts or look up an algorithm for help. Google is your friend!
 
-From the [website](link:"https://projecteuler.net/): "Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."
+From the [website](https://projecteuler.net/): "Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."
 
 ## Project Euler on Learn
 
