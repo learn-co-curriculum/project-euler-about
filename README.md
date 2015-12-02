@@ -25,3 +25,5 @@ Project Euler was started by Colin Hughes in October 2001 on mathschallenge.net.
 - Feel free to experiment with pencil & paper to get a feel for the problem. 
 - If the mathematical material is new to you, some quick Internet research should provide plenty of reference material. 
 - Try using IRB to write simple programs to test simple cases and confirm that you've grasped the example cases. 
+
+<a href='https://learn.co/lessons/project-euler-about' data-visibility='hidden'>View this lesson on Learn.co</a>
